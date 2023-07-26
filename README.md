@@ -7,12 +7,12 @@ Habit Tracker</h1>
 <h1>Features</h1><br>
 Once you have the application up and running, you can start using it by following these steps:
 <ul><li>
-Sing-up/Sign-in into your account.
-Click on the "Add Habit" button to create a new habit.
-Enter the name of the habit you want to track.
-Click on the "Save" button to save the habit.
+Sing-up/Sign-in into your account.</li><li>
+Click on the "Add Habit" button to create a new habit.</li>
+<li>Enter the name of the habit you want to track.</li><li>
+Click on the "Save" button to save the habit.</li><li>
 To mark a habit as complete/incomplete for the day, simply click on the corresponding icon.
-To delete a habit, click on the "Delete" icon next to it.
-To see today's habits, click on "Show Daily" button.
-To edit a habit, click on the "Edit" icon next to it.
-<li></ul>
+</li><li>To delete a habit, click on the "Delete" icon next to it.</li><li>
+To see today's habits, click on "Show Daily" button.</li><li>To edit a habit, click on the "Edit" icon next to it.</li>
+
+</ul>
